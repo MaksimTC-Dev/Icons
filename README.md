@@ -1,2 +1,3 @@
-# ProgrammingLanguageIcons
+# Icons
+
 List of icons
